@@ -47,14 +47,14 @@
     "college":"VBIT",
     "mail":"gnanisurya3@gmail.com",
 
-  }
+  },
   
   {
     "name": "Harsha Vardhan",
     "GithubID": "Harsha-Vardhan-Developer",
     "college":"VBIT",
     "mail":"ghvy999@gmail.com",
-  }
+  },
   
   
   {
@@ -62,6 +62,13 @@
     "GithubID": "Shanthanreddy99",
     "college":"VBIT",
     "mail":"shanthanreddykatukuri@gmail.com",
+  },
+  
+   {
+    "name": "K Snehalatha",
+    "GithubID": "snehalatha03",
+    "college":"VBIT",
+    "mail":"snehalathakondeti73@gmail.com",
   }
     
 ]
